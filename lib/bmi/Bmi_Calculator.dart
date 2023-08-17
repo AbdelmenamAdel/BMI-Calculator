@@ -4,7 +4,7 @@ import 'package:bmi_calc/Colors/colors.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-import '../bmi_result/Bmi_Result.dart';
+import 'Bmi_Result.dart';
 
 class BmiCalculator extends StatefulWidget {
   const BmiCalculator({super.key});
